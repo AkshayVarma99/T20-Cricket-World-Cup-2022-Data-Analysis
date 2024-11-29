@@ -59,7 +59,7 @@ The dashboard includes the following key reports to visualize player performance
 - **Specialist Fast Bowlers**
 - **Final Best 11 Players**
 
-![Player Analysis Report](images/Player%20Analysis%20Report.png)
+![Player Analysis Report](Images/Player%20Analysis%20Report.png)
 *Screenshot 2: Player Analysis Report showing top-performing players.*
 
 Each report offers comparative views to help users analyze performance metrics for effective player selection.
