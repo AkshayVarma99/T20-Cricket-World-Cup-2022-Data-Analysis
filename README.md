@@ -14,7 +14,7 @@
 ## Problem Statement
 This project develops a **Power BI Dashboard** that provides insights into the performance of players in the **ICC Men’s T20 World Cup 2022**. The dashboard enables users to review individual performances and select the **Best 11 Players** of the tournament, based on key metrics and predefined performance criteria.
 
-![Dashboard Overview](Images/Dashboard Overview.png)  
+![Dashboard Overview](Images/Dashboard%20Overview.png)
 *Screenshot 1: Overview of the Power BI Dashboard showing player analysis.*
 
 ## Data Source
