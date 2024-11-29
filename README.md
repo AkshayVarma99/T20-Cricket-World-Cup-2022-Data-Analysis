@@ -14,7 +14,7 @@
 ## Problem Statement
 This project develops a **Power BI Dashboard** that provides insights into the performance of players in the **ICC Men’s T20 World Cup 2022**. The dashboard enables users to review individual performances and select the **Best 11 Players** of the tournament, based on key metrics and predefined performance criteria.
 
-![Dashboard Overview](images/Dashboard Overview.png)  
+![Dashboard Overview](Images/Dashboard Overview.png)  
 *Screenshot 1: Overview of the Power BI Dashboard showing player analysis.*
 
 ## Data Source
@@ -59,7 +59,7 @@ The dashboard includes the following key reports to visualize player performance
 - **Specialist Fast Bowlers**
 - **Final Best 11 Players**
 
-![Player Analysis Report](images/Player Analysis Report.png)  
+![Player Analysis Report](Images/Player Analysis Report.png)  
 *Screenshot 2: Player Analysis Report showing top-performing players.*
 
 Each report offers comparative views to help users analyze performance metrics for effective player selection.
@@ -82,5 +82,5 @@ This project was built using the following technologies:
 - [Match Scorecard - Namibia vs Sri Lanka](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/namibia-vs-sri-lanka-1st-match-first-round-group-a-1298135/full-scorecard)
 - [BrightData (formerly Luminati) - Data Collection Tools](https://brightdata.com/)
 
-![Final Best 11 Report](images/Final Best 11 Report.png)  
+![Final Best 11 Report](Images/Final Best 11 Report.png)  
 *Screenshot 3: Final Best 11 Players report with top-performing players selected.*
